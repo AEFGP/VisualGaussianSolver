@@ -1,4 +1,4 @@
-# Visual Gauss-Jordan Elimination Solver
+# Visual Gaussian Elimination Solver
 ## Note to Dev
 * This is a quick hacky program.
 * Eliminate BytesIO
